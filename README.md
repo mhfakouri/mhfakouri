@@ -4,6 +4,10 @@ I am a mechanical engineering graduate interested in robotics, control, and simu
 
 My M.Sc. research explored the combination of computed torque control and residual deep reinforcement learning for a simulation-based cable-driven lower-limb rehabilitation robot.
 
+## Research Manuscript
+
+**Fakouri, M.-H., and Keymasi-Khalaji, A.** “Residual Deep Reinforcement Learning-Based Computed Torque Control for a Cable-Driven Lower-Limb Rehabilitation Robot under Disturbances and Parametric Uncertainties.” **Under revision following peer review at *Scientific Reports* (October 2026).** [Preprint: arXiv:2608.26739](https://arxiv.org/abs/2608.26739).
+
 ## Areas of Interest
 
 * Robot dynamics and control
@@ -37,7 +41,7 @@ A signal-processing project for filtering synthetic force and torque measurement
 
 ## Current Work
 
-* Preparing a manuscript based on my M.Sc. research
+* Revising my M.Sc.-based research manuscript following peer review at *Scientific Reports*
 * Improving reproducibility and documentation of robotics projects
 * Learning more about ROS 2 and open-source robotics development
 
